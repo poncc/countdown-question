@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.example {
+    padding: 12px;
+}
+.example img {
+  border: 2px solid black;
+}
